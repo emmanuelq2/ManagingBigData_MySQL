@@ -1085,9 +1085,3 @@ AS top_store_month
 GROUP BY top_store_month.month_num
 ```
 Dec has the most returns.
-
-## Certificate
-
-<p align="center">
-<img src="Certificate_Duke_sql.png" width=400/>
-</p>

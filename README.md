@@ -1,4 +1,4 @@
-# ManagingBigData_MySQL_DukeUniv
+# ManagingBigData_MySQL
 
 Order of processing SQL:
 ![Order](week3/Order_of_processing_smaller.jpg "Order_of_processing")
@@ -55,9 +55,3 @@ strategies we used in these exercises are that:
 queries to accommodate data anomalies, and 
 3. avoid using averages of averages to summarize
 the performance of a group.
-
-## Certificate
-
-<p align="center">
-<img src="week5/Certificate_Duke_sql.png" width=400/>
-</p>
